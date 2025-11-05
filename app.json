@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Navigation Recap",
+    "slug": "navigation-recap",
+    "platforms": ["ios", "android", "web"],
+    "orientation": "portrait",
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true }
+  }
+}
