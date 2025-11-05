@@ -2,5 +2,5 @@
 
 # Kurulum
 
-Bağımlılıkları yükle: npm install
-Geliştirme sunucusunu başlat: npm run start
+# Bağımlılıkları yükle: npm install
+## Geliştirme sunucusunu başlat: npm run start
